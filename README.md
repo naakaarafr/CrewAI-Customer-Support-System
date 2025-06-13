@@ -29,8 +29,8 @@ The system employs two specialized agents:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/naakaarafr/crewai-support-system.git
-cd crewai-support-system
+git clone https://github.com/naakaarafr/CrewAI-Customer-Support-System.git
+cd CrewAI-Customer-Support-System
 ```
 
 2. Install required dependencies:
